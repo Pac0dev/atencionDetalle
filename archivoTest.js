@@ -1,2 +1,2 @@
-let myvar = 0;
+let myvar = 1;
 console.log(myvar);
